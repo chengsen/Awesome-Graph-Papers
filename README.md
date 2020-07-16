@@ -3,13 +3,19 @@ I will collect articles about graphs (such as graph neural networks). Welcome to
 
 Powerer by Zotero
 
-[TOC]
+- [2020 Top Conference](#2020-top-conference)
+- [Survey](#survey)
+- [Graph Generation](#graph-generation)
+- [Spatio-Temporal Graph](#spatio-temporal-graph)
+
 
 ## 2020 Top Conference
+
 * [KDD 2020](/2020/KDD2020.md)
 * [ACL 2020](/2020/ACL2020.md)
 
 ## Survey
+
 1. Deep Learning on Graphs: A Survey (2020) Zhang Z, Cui P, et al. \\\ http://arxiv.org/abs/1812.04202
 2. A Survey on Knowledge Graph-Based Recommender Systems (2020) Guo Q, Zhuang F, et al. \\\ http://arxiv.org/abs/2003.00911
 3. A Comprehensive Survey on Graph Neural Networks (2020) Wu Z, Pan S, et al. \\\ doi: 10.1109/TNNLS.2020.2978386
@@ -21,6 +27,7 @@ Powerer by Zotero
 9. Geometric deep learning: going beyond Euclidean data (2017) Bronstein MM, Bruna J, et al. \\\ doi: 10.1109/MSP.2017.2693418
 
 ## Graph Generation
+
 1.  Bridging Knowledge Graphs to Generate Scene Graphs (2020) Zareian A, Karaman S, et al. \\\ http://arxiv.org/abs/2001.02314
 2.  Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting (2020) Bai L, Yao L, et al. \\\ http://arxiv.org/abs/2007.02842
 3.  Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases (2020) Lan Y, Jiang J. \\\ https://www.aclweb.org/anthology/2020.acl-main.91
@@ -75,6 +82,7 @@ Powerer by Zotero
 52.  Graphs over time: densification laws, shrinking diameters and possible explanations (2005) Leskovec J, Kleinberg J, et al. \\\ http://portal.acm.org/citation.cfm?doid=1081870.1081893 \\\ doi: 10.1145/1081870.1081893
 
 ## Spatio-Temporal Graph
+
 1.  Spatio-Temporal Graph Routing for Skeleton-Based Action Recognition (2019) Li B, Li X, et al. \\\ doi: 10.1609/aaai.v33i01.33018561
 2.  Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting (2019) Guo S, Lin Y, et al. \\\ doi: 10.1609/aaai.v33i01.3301922
 3.  Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting (2019) Geng X, Li Y, et al. \\\ doi: 10.1609/aaai.v33i01.33013656
