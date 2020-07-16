@@ -6,8 +6,8 @@ Powerer by Zotero
 [TOC]
 
 ## 2020 Top Conference
-* [KDD 2020](/2020/KDD 2020.md)
-* [ACL 2020](/2020/ACL 2020.md)
+* [KDD 2020](/2020/KDD2020.md)
+* [ACL 2020](/2020/ACL2020.md)
 
 ## Survey
 1. Deep Learning on Graphs: A Survey (2020) Zhang Z, Cui P, et al. \\\ http://arxiv.org/abs/1812.04202
