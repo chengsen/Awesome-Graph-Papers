@@ -16,6 +16,7 @@ In China, this URL will be faster: https://gitee.com/chengsen/Awesome-Graph-Pape
 
 * [KDD 2020](/2020/KDD2020.md)
 * [ACL 2020](/2020/ACL2020.md)
+* [AAAI 2020](/2020/AAAI2020.md)
 
 ## Survey
 
