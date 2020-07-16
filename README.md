@@ -11,10 +11,10 @@ In China, this URL will be faster: https://gitee.com/chengsen/Awesome-Graph-Pape
 - [Graph Generation](#graph-generation)
 - [Spatio-Temporal Graph](#spatio-temporal-graph)
 - [Issues](#issues)
-  - [Why should I create this warehouse?](#why-should-i-create-this-warehouse)
-  - [Missed a paper?](#missed-a-paper)
-  - [This paper is wrongly classified?](#this-paper-is-wrongly-classified)
-  - [An paper matches multiple categories？](#an-paper-matches-multiple-categories)
+  - [Why should I create this warehouse ?](#why-should-i-create-this-warehouse-)
+  - [Missed a paper ?](#missed-a-paper-)
+  - [This paper is wrongly classified ?](#this-paper-is-wrongly-classified-)
+  - [An paper matches multiple categories ？](#an-paper-matches-multiple-categories-)
 
 
 ## 2020 Top Conference
@@ -106,21 +106,21 @@ In China, this URL will be faster: https://gitee.com/chengsen/Awesome-Graph-Pape
 
 ## Issues
 
-### Why should I create this warehouse?
+### Why should I create this warehouse ?
 
 I decided to study in this field. I have also organized a lot of papers on graphs daily. I share them, mainly for these two reasons:
 
 1. Hope to promote academic exchanges
 2. A little help for everyone
 
-### Missed a paper?
+### Missed a paper ?
 
 At present, I am the only one maintaining it.. Even in the field of graph neural network, there are many conferences and journals every month/year. With limited energy, there is no way to cover the entire field. If I missed an paper, please feel free to let me know.
 
-### This paper is wrongly classified?
+### This paper is wrongly classified ?
 
 I am sorry for this situation, please feel free to let me know.
 
-### An paper matches multiple categories？
+### An paper matches multiple categories ？
 
 I am also trying more classification methods, such as labeling boxes. Although it seems simple, it will increase my workload. So if you cannot find the paper you want under one category, you can look at more categories.
