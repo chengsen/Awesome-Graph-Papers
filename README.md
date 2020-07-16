@@ -4,6 +4,8 @@ I will collect articles about graphs (such as graph neural networks). Welcome to
 
 Powerer by Zotero
 
+In China, this URL will be faster: https://gitee.com/chengsen/Awesome-Graph-Papers
+
 - [2020 Top Conference](#2020-top-conference)
 - [Survey](#survey)
 - [Graph Generation](#graph-generation)
