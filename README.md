@@ -25,25 +25,27 @@ In China, this URL will be faster: https://gitee.com/chengsen/Awesome-Graph-Pape
 
 ## Survey
 
-1. **Deep Learning on Graphs: A Survey** (2020) Zhang Z, Cui P, et al. \\\ *http://arxiv.org/abs/1812.04202*
-2. **A Comprehensive Survey on Graph Neural Networks** (2020) Wu Z, Pan S, et al. \\\ *doi: 10.1109/TNNLS.2020.2978386 http://arxiv.org/abs/1901.00596*
-3. **Graph Learning Approaches to Recommender Systems: A Review** (2020) Wang S, Hu L, et al. \\\ *https://arxiv.org/abs/2004.11718*
-4. **Introduction to graph neural networks** (2020) Liu Z, Zhou J. \\\ *https://evo.services/introduction-to-graph-neural-networks/*
+1. **Introduction to graph neural networks** (2020) Liu Z, Zhou J. \\\ *https://evo.services/introduction-to-graph-neural-networks/*
+2. **Graph Learning Approaches to Recommender Systems: A Review** (2020) Wang S, Hu L, et al. \\\ *https://arxiv.org/abs/2004.11718*
+3. **Deep Learning on Graphs: A Survey** (2020) Zhang Z, Cui P, et al. \\\ *http://arxiv.org/abs/1812.04202*
+4. **Adversarial Attack and Defense on Graph Data: A Survey** (2020) Sun L, Dou Y, et al. \\\ *http://arxiv.org/abs/1812.10528*
 5. **A Survey on Knowledge Graph-Based Recommender Systems** (2020) Guo Q, Zhuang F, et al. \\\ *http://arxiv.org/abs/2003.00911*
-6. **Graph Neural Networks: A Review of Methods and Applications** (2019) Zhou J, Cui G, et al. \\\ *http://arxiv.org/abs/1812.08434*
-7. **Network Representation Learning: A Survey** (2018) Zhang D, Yin J, et al. \\\ *http://arxiv.org/abs/1801.05852*
-8. **Attention Models in Graphs: A Survey** (2018) Lee JB, Rossi RA, et al. \\\ *http://arxiv.org/abs/1807.07984*
-9. **Representation Learning on Graphs: Methods and Applications** (2018) Hamilton WL, Ying R, et al. \\\ *http://arxiv.org/abs/1709.05584*
-10. **Graph Embedding Techniques, Applications, and Performance: A Survey** (2018) Goyal P, Ferrara E. \\\ *doi: 10.1016/j.knosys.2018.03.022 http://arxiv.org/abs/1705.02801*
-11. **A Tutorial on Network Embeddings** (2018) Chen H, Perozzi B, et al. \\\ *http://arxiv.org/abs/1808.02590*
-12. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications** (2018) Cai H, Zheng VW, et al. \\\ *http://arxiv.org/abs/1709.07604*
-13. **Relational inductive biases, deep learning, and graph networks** (2018) Battaglia PW, Hamrick JB, et al. \\\ *http://arxiv.org/abs/1806.01261*
-14. **Network representation learning: an overview** (2017) Yang C, Liu Z, et al. \\\ *doi: 10.1360/N112017-00145 http://engine.scichina.com/doi/10.1360/N112017-00145*
-15. **Knowledge Graph Embedding: A Survey of Approaches and Applications** (2017) Wang Q, Mao Z, et al. \\\ *doi: 10.1109/TKDE.2017.2754499 http://ieeexplore.ieee.org/document/8047276/*
-16. **A Survey on Network Embedding** (2017) Cui P, Wang X, et al. \\\ *http://arxiv.org/abs/1711.08752*
-17. **Geometric deep learning: going beyond Euclidean data** (2017) Bronstein MM, Bruna J, et al. \\\ *doi: 10.1109/MSP.2017.2693418 http://arxiv.org/abs/1611.08097*
-
-
+6. **A Comprehensive Survey on Graph Neural Networks** (2020) Wu Z, Pan S, et al. \\\ *doi: 10.1109/TNNLS.2020.2978386 http://arxiv.org/abs/1901.00596*
+7. **Graph Neural Networks: A Review of Methods and Applications** (2019) Zhou J, Cui G, et al. \\\ *http://arxiv.org/abs/1812.08434*
+8. **Graph Kernels: A Survey** (2019) Nikolentzos G, Siglidis G, et al. \\\ *http://arxiv.org/abs/1904.12218*
+9. **A Survey on Graph Processing Accelerators: Challenges and Opportunities** (2019) Gui C, Zheng L, et al. \\\ *http://arxiv.org/abs/1902.10130*
+10. **Representation Learning on Graphs: Methods and Applications** (2018) Hamilton WL, Ying R, et al. \\\ *http://arxiv.org/abs/1709.05584*
+11. **Relational inductive biases, deep learning, and graph networks** (2018) Battaglia PW, Hamrick JB, et al. \\\ *http://arxiv.org/abs/1806.01261*
+12. **Network Representation Learning: A Survey** (2018) Zhang D, Yin J, et al. \\\ *http://arxiv.org/abs/1801.05852*
+13. **Graph Embedding Techniques, Applications, and Performance: A Survey** (2018) Goyal P, Ferrara E. \\\ *doi: 10.1016/j.knosys.2018.03.022 http://arxiv.org/abs/1705.02801*
+14. **Attention Models in Graphs: A Survey** (2018) Lee JB, Rossi RA, et al. \\\ *http://arxiv.org/abs/1807.07984*
+15. **A Tutorial on Network Embeddings** (2018) Chen H, Perozzi B, et al. \\\ *http://arxiv.org/abs/1808.02590*
+16. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications** (2018) Cai H, Zheng VW, et al. \\\ *http://arxiv.org/abs/1709.07604*
+17. **Network representation learning: an overview** (2017) Yang C, Liu Z, et al. \\\ *doi: 10.1360/N112017-00145 http://engine.scichina.com/doi/10.1360/N112017-00145*
+18. **Knowledge Graph Embedding: A Survey of Approaches and Applications** (2017) Wang Q, Mao Z, et al. \\\ *doi: 10.1109/TKDE.2017.2754499 http://arxiv.org/abs/1611.08097*
+19. **Geometric deep learning: going beyond Euclidean data** (2017) Bronstein MM, Bruna J, et al. \\\ *doi: 10.1109/MSP.2017.2693418*
+20. **A Survey on Network Embedding** (2017) Cui P, Wang X, et al. \\\ *http://arxiv.org/abs/1711.08752*
+21. **Knowledge graph refinement: A survey of approaches and evaluation methods** (2016) Paulheim H. \\\ *doi: 10.3233/SW-160218 https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/SW-160218*
 
 ## Graph Generation
 
